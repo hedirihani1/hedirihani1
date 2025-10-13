@@ -1,4 +1,4 @@
-## 👋 Bonjour, je suis Hedi Rihani
+# 👋 Bonjour, je suis Hedi Rihani
 
 Étudiant en **1ère année du cycle préparatoire intégré** à l'**École d'ingénieurs CESI Lyon**, passionné par l'informatique et le développement.
 
@@ -29,5 +29,3 @@
 - **Espagnol** : Niveau scolaire  
 
 ---
-
-📄 [Mon CV complet](#)  
